@@ -1,0 +1,6 @@
+ 01 D   1000.000 S-2113 ITEM #202524 OREGON ST 
+ 01 L     1     2
+ 01 L     2     3
+ 01 L     3     4
+ 02 D   1000.000 OUTLET DITCH LT STA 1+111.901 
+ 02 L     5     6
